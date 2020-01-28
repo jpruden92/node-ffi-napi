@@ -15,8 +15,6 @@ node_modules
 npm-debug.log
 .nyc_output/
 coverage
-build
-node-addon-api
 
 core
 deps/libffi/fficonfig.h
