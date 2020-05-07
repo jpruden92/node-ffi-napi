@@ -1,5 +1,5 @@
 {
-  "name": "ffi-napi",
+  "name": "@jpruden/ffi-napi",
   "version": "2.4.6",
   "license": "MIT",
   "author": "Anna Henningsen <anna@addaleax.net>",
